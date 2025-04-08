@@ -1,0 +1,12 @@
+.category-heading{
+    background-color:lightgray;
+    font-weight: bold;
+
+    color: gray;
+}
+  
+ .my-container {
+    background-color:burlywood; 
+    margin-left:200px ; /* 0 top and bottom, auto left and right */
+    margin-right:200px;
+  }
